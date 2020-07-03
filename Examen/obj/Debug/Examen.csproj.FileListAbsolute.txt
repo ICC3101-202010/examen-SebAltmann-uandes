@@ -1,0 +1,6 @@
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/obj/Debug/Examen.csprojAssemblyReference.cache
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/obj/Debug/Examen.csproj.CoreCompileInputs.cache
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/bin/Debug/Examen.exe
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/bin/Debug/Examen.pdb
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/obj/Debug/Examen.exe
+/Users/Seb/Desktop/UANDES/2020/Primer Semestre/Programación Orientada a Objetos/examen-SebAltmann-uandes/Examen/obj/Debug/Examen.pdb
